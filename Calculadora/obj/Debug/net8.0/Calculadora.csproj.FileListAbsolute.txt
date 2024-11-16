@@ -1,0 +1,14 @@
+G:\CursoXP\TesteUnitario- Aula17\Calculadora\bin\Debug\net8.0\Calculadora.exe
+G:\CursoXP\TesteUnitario- Aula17\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+G:\CursoXP\TesteUnitario- Aula17\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+G:\CursoXP\TesteUnitario- Aula17\Calculadora\bin\Debug\net8.0\Calculadora.dll
+G:\CursoXP\TesteUnitario- Aula17\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+G:\CursoXP\TesteUnitario- Aula17\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+G:\CursoXP\TesteUnitario- Aula17\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+G:\CursoXP\TesteUnitario- Aula17\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+G:\CursoXP\TesteUnitario- Aula17\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+G:\CursoXP\TesteUnitario- Aula17\Calculadora\obj\Debug\net8.0\Calculadora.dll
+G:\CursoXP\TesteUnitario- Aula17\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+G:\CursoXP\TesteUnitario- Aula17\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+G:\CursoXP\TesteUnitario- Aula17\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+G:\CursoXP\TesteUnitario- Aula17\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
